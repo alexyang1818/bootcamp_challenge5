@@ -12,7 +12,7 @@ When summarized according to city types, the total fare is highest for urban cit
 
 Below is the figure of weekly fares by three cities types. The relative amount among different city types is consistant with the above table. It also indicates that the weekly fares are stable from January to April in 2019.
 
-![Total fares summary](analysis/PyBer_fare_summary.PNG)
+![Total Fares Summary](analysis/PyBer_fare_summary.png)
 
 ## Summary: 
 
